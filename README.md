@@ -3,9 +3,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pygame](https://img.shields.io/badge/pygame-black?style=for-the-badge&logo=python&logoColor=white)
 
-**MineFight** es un trepidante juego 2D de supervivencia y físicas desarrollado en Python utilizando la librería Pygame. En este juego, encarnas a un arquero que debe defender su posición contra infinitas oleadas de enemigos icónicos de Minecraft (Zombies y Creepers), con un sistema de progresión de experiencia y mejoras.
+**MineFight** es un juego 2D de supervivencia y físicas desarrollado en Python utilizando la librería Pygame. En este juego, encarnas a un arquero que debe defender su posición dentro de una cueva contra infinitas oleadas de enemigos icónicos de Minecraft (Zombies y Creepers), con un sistema de progresión de experiencia y mejoras.
 
-## ✨ Características Principales
+## Características Principales
 
 * **Sistema de Oleadas y Jefes:** La dificultad escala progresivamente. A partir de ciertas oleadas, aumenta la velocidad, la cantidad de enemigos y la probabilidad de aparición de Jefes con mayor vida y tamaño.
 * **Físicas de Proyectiles y Experiencia:** Las flechas viajan hacia el enemigo, y al morir, los mobs liberan orbes de experiencia con físicas de explosión, gravedad y rebote, viajando hacia la pantalla del jugador.
@@ -30,4 +30,4 @@ Si solo quieres jugar, no necesitas instalar Python:
 1. Ve a la sección de **Releases** de este repositorio.
 2. Descarga el archivo `.zip` con la última versión.
 3. Descomprime la carpeta, asegúrate de que las carpetas `textures/` y `sounds/` estén junto al archivo `MineFight.exe`.
-4. Ejecuta `MineFight.exe` y ¡a jugar!
+4. Ejecuta `MineFight.exe`
