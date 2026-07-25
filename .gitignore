@@ -1,0 +1,15 @@
+# PyInstaller folders
+build/
+dist/
+
+# Executables
+*.exe
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# IDEs / OS files
+.vscode/
+.idea/
+.DS_Store
